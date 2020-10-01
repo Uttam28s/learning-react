@@ -2,6 +2,10 @@
 
 materials about learning react
 
+You can learn more in the Create React App documentation.
+
+To learn React, check out the React documentation.
+
 ## Development
 
 ```
